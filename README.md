@@ -24,7 +24,7 @@ WP Bearstyle Like Button 插件为 WordPress 网站提供了一种风格独特�
 - **默认样式**：插件附带了默认的 Bear 风格 CSS 文件，确保从安装到运行的即刻体验。
 - **自定义修改**：通过编辑 CSS 文件，你可以轻松改变按钮的颜色、尺寸和动画效果。
 
-# WP WP Bearstyle Like Button 插件更新日志 (ChangeLog)
+# WP Bearstyle Like Button 插件更新日志 (ChangeLog)
 
 ## 版本 2.8
 
@@ -55,7 +55,7 @@ WP Bearstyle Like Button 插件为 WordPress 网站提供了一种风格独特�
 
 ---
 
-感谢使用WP WP Bearstyle Like Button插件，我们将继续优化插件功能和用户体验！
+感谢使用WP Bearstyle Like Button插件，我们将继续优化插件功能和用户体验！
 
 ## 常见问题
 
