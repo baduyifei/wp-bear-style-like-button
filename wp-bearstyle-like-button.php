@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: WP Bear Style Like Button
+ * Plugin Name: WP Bearstyle Like Button
  * Description: 在文章页底部增加一个居中的点赞按钮和「支持」链接，提供 AJAX 点赞功能和后台「支持」链接设置,点赞改为心形。
- * Version: 2.8
+ * Version: 2.9
  * Author: baduyifei.com / anotherdayu.com
  */
 
