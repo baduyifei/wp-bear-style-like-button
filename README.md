@@ -2,7 +2,7 @@
 
 ## 插件简介
 
-Bear Style Like Button 插件为 WordPress 网站提供了一种风格独特的点赞按钮。该插件灵感来源于极简设计与温暖手绘风格，能够帮助你的站点在用户交互上添加一抹亮色。
+WP Bearstyle Like Button 插件为 WordPress 网站提供了一种风格独特的点赞按钮。该插件灵感来源于极简设计与温暖手绘风格，能够帮助你的站点在用户交互上添加一抹亮色。
 
 ## 功能特点
 
@@ -24,7 +24,7 @@ Bear Style Like Button 插件为 WordPress 网站提供了一种风格独特的�
 - **默认样式**：插件附带了默认的 Bear 风格 CSS 文件，确保从安装到运行的即刻体验。
 - **自定义修改**：通过编辑 CSS 文件，你可以轻松改变按钮的颜色、尺寸和动画效果。
 
-# WP Bear Style Like Button 插件更新日志 (ChangeLog)
+# WP WP Bearstyle Like Button 插件更新日志 (ChangeLog)
 
 ## 版本 2.8
 
@@ -55,7 +55,7 @@ Bear Style Like Button 插件为 WordPress 网站提供了一种风格独特的�
 
 ---
 
-感谢使用WP Bear Style Like Button插件，我们将继续优化插件功能和用户体验！
+感谢使用WP WP Bearstyle Like Button插件，我们将继续优化插件功能和用户体验！
 
 ## 常见问题
 
