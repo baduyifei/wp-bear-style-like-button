@@ -1,4 +1,4 @@
-# Bear Style Like Button 插件
+# WP Bearstyle Like Button 插件
 
 ## 插件简介
 
